@@ -1,0 +1,7 @@
+#!include_default
+
+\.bs$
+\.c$
+\.o$
+^.ackrc$
+^Storable-
